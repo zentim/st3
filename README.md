@@ -17,7 +17,7 @@ git clone https://github.com/zentim/st3.git User
 git pull
 ```
 
-從本地同步到遠端 (進入 Packages 目錄):
+從本地同步到遠端 (先進入 Packages 目錄):
 ```
 git add . 
 git commit -m "Update settings"
@@ -35,6 +35,7 @@ Package Control.ca-bundle
 Package Control.system-ca-bundle
 Package Control.cache/
 Package Control.ca-certs/
+encoding_cache.json
 ```
 
 尋找 Packages 目錄的位置:
