@@ -7,9 +7,11 @@
 	[
 		"AutoFileName",
 		"BracketHighlighter",
+		"ColorPicker",
 		"ConvertToUTF8",
 		"DocBlockr",
 		"Emmet",
+		"GitGutter",
 		"HTML-CSS-JS Prettify",
 		"Package Control",
 		"SublimeCodeIntel",
