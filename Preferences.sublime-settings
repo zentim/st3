@@ -5,6 +5,7 @@
 	"ensure_newline_at_eof_on_save": true,
 	"font_face": "Monaco",
 	"font_size": 12,
+	"git_binary": "C:\\Program Files\\Git\\bin\\git.exe",
 	"highlight_line": true,
 	"highlight_modified_tabs": true,
 	"ignored_packages":
@@ -18,6 +19,5 @@
 	],
 	"tab_size": 4,
 	"translate_tabs_to_spaces": true,
-	"trim_trailing_white_space_on_save": true,
-	"git_binary": "C:\\Program Files\\Git\\bin\\git.exe",
+	"trim_trailing_white_space_on_save": true
 }
