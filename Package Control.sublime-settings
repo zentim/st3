@@ -5,12 +5,14 @@
 	],
 	"installed_packages":
 	[
+		"AutoFileName",
 		"BracketHighlighter",
 		"ConvertToUTF8",
 		"DocBlockr",
 		"Emmet",
-		"FileDiffs",
 		"HTML-CSS-JS Prettify",
-		"Package Control"
+		"Package Control",
+		"SublimeCodeIntel",
+		"SyncedSideBar"
 	]
 }
