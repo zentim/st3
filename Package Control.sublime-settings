@@ -5,7 +5,12 @@
 	],
 	"installed_packages":
 	[
+		"BracketHighlighter",
+		"ConvertToUTF8",
+		"DocBlockr",
+		"Emmet",
 		"FileDiffs",
+		"HTML-CSS-JS Prettify",
 		"Package Control"
 	]
 }
